@@ -1,8 +1,8 @@
 #include<stdio.h>
 /**
- * main - Entry point
- * Description: print message in the puts 
- * Return: Always 0 (success)
+ * main - entry point
+ * Description: print a statement using puts function
+ * Return: (0) success
  */
 int main(void)
 {
