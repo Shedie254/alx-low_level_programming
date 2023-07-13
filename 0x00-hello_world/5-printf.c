@@ -1,7 +1,7 @@
 #include<stdio.h>
 /**
- * main-entry point
- *
+ * main - entry point
+ * Description: print outcome using function printf
  * Return :Always 0(success)
  */
 int main(void)
