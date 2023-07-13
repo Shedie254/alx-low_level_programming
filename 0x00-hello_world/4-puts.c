@@ -1,7 +1,8 @@
 #include<stdio.h>
 /**
  * main -Entry point
- * main print result 
+ *
+ * main :print message in the puts 
  * Return : Always 0 (success)
  */
 int main(void)
