@@ -7,7 +7,7 @@
   * to 98 separated by a coma
   * it prints the numbers in acsending order
   */
-void print_to_98(int n);
+void print_to_98(int n)
 {
 	int i;
 
