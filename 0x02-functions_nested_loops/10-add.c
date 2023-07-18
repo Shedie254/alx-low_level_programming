@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
-  * add: find sum of two numbers
+  * add - find sum of two numbers
   * @i: first input number
   * @j: second input number
   * Return: results after addition
