@@ -6,7 +6,7 @@
   * @j: second input number
   * Return: results after addition
   */
-int add(int i, int j);
+int add(int i, int j)
 {
 	int sum = i + j;
 

@@ -3,7 +3,7 @@
 /**
   * times_table - prints the times table starting from 0
   */
-void times_table(void);
+void times_table(void)
 {
 	for (int i = 0; i <= 9; i++)
 	{
