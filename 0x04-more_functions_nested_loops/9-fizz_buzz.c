@@ -1,11 +1,9 @@
 #include <stdio.h>
 /**
-  * main - prints numbers from 1 to 100 for multiples of 3
-  * print fizz and for multiples of 5 print buzz for those that are multiples
-  * of both print fizzbuzz
-  * Description: print numbers and fizz buzz
-  * Return: 0 success
-  */
+ * main - Entry point of the program
+ *
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 	int i;
@@ -14,22 +12,26 @@ int main(void)
 	{
 	if (i % 3 == 0 && i % 5 == 0)
 	{
-	printf("FizzBuzz ");
+		printf("FizzBuzz");
+		printf(" ");
 	}
 	else if (i % 3 == 0)
 	{
-	printf("Fizz ");
+		printf("Fizz");
+		printf(" ");
 	}
 	else if (i % 5 == 0)
 	{
-	printf("Buzz ");
+		printf("Buzz");
+		printf(" ");
 	}
 	else
 	{
 	printf("%d ", i);
+	printf(" ");
 	}
 	}
-	printf("\n");
+printf("\n");
 
-	return (0);
+return (0);
 }
