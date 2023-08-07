@@ -3,7 +3,7 @@
 /**
   * str_concat - function tha concatenates two strings
   * @s1: one of the input strings
-  * @ s2: the second input string
+  * @s2: the second input string
   * Return: the two strings
   */
 char *str_concat(char *s1, char *s2)
