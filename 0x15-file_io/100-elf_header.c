@@ -297,7 +297,7 @@ int main(int __attribute__((__unused__)) argc, char *argv[])
 		exit(98);
 	}
 
-	check_elf(header->e_ident);
+	chck_lf(header->e_ident);
 	printf("ELF Header:\n");
 	prnt_mgc(header->e_ident);
 	prnt_clss(header->e_ident);
