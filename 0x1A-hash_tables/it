@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "function that implements the djb2 algorithm"
+git commit -m "function that gives the index of a key"
 git push
