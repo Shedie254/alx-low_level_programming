@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "function that creates a hash table"
+git commit -m "function that implements the djb2 algorithm"
 git push
