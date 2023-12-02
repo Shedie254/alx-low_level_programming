@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "function that gets  an element associated with a key"
+git commit -m "function that prints a hash table"
 git push
